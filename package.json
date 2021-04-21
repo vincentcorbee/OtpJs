@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/vincentcorbee/OtpJs#readme",
   "dependencies": {
-    "base32.js": "^0.1.0"
+    "@digitalbranch/base32js": "^1.0.1"
   }
 }
