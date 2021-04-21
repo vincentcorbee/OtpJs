@@ -1,0 +1,30 @@
+{
+  "name": "@digitalbranch/otpjs",
+  "version": "1.0.0",
+  "description": "A Otp implementation for nodejs with hopt and topt",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincentcorbee/OtpJs.git"
+  },
+  "keywords": [
+    "Otp",
+    "hotp",
+    "topt"
+  ],
+  "author": "V.J.M. Corbee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vincentcorbee/OtpJs/issues"
+  },
+  "homepage": "https://github.com/vincentcorbee/OtpJs#readme",
+  "dependencies": {
+    "base32.js": "^0.1.0"
+  }
+}
